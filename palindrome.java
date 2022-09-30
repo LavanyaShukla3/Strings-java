@@ -19,5 +19,5 @@ class palindrome{
       System.out.println(str.equals(nstr));
       
     }
-    //System.out.println(str.equals(nstr));
+    
 }
